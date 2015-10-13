@@ -12,6 +12,10 @@
 
 @implementation DemoTableViewController
 
+- (void)viewDidLoad
+{
+    self.title=@"Ayurvedic Treatments";
+}
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
     return 1;
 }
