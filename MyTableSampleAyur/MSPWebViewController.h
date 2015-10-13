@@ -12,7 +12,6 @@
 
 @interface MSPWebViewController : UIViewController <UIWebViewDelegate>
 {
-    NSString *webPageName;
 }
 -(void) loadUrl :(NSString*) webPageUrlName;
 
