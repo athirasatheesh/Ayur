@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 #import "MSPConstants.h"
-#import "MSPApplicationDelegate.h"
 
 @interface MSPWebViewController : UIViewController <UIWebViewDelegate>
 {

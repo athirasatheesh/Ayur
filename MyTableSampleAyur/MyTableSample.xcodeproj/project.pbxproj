@@ -184,7 +184,6 @@
 		6BEF59AC1BABF347002A174D /* MSPConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MSPConstants.h; path = ../MSPConstants.h; sourceTree = "<group>"; };
 		6BEF5A071BAC0400002A174D /* MSPWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MSPWebViewController.h; path = ../MSPWebViewController.h; sourceTree = "<group>"; };
 		6BEF5A081BAC0400002A174D /* MSPWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MSPWebViewController.m; path = ../MSPWebViewController.m; sourceTree = "<group>"; };
-		6BEF5A0B1BAC05C9002A174D /* MSPApplicationDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = MSPApplicationDelegate.h; path = ../MSPApplicationDelegate.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -247,7 +246,6 @@
 			children = (
 				6B469CB21BABDEEF002CF9EF /* Info.plist */,
 				6B469CB31BABDEEF002CF9EF /* main.m */,
-				6BEF5A0B1BAC05C9002A174D /* MSPApplicationDelegate.h */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
